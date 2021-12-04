@@ -1,4 +1,4 @@
-Downlaod and install Go
+Download and install Go
 
 Use the following command to clone the repository: git clone https://github.com/twbjelland/inClass_9_20.git 
 
